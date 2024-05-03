@@ -32,13 +32,21 @@
 #The top three pinch hitters in IPL Power Play (min. 20 innings) displayed remarkable batting prowess:
 
 ---------------------------------------------------------------------------------
-1. **Virender Sehwag**: A force to reckon with, Sehwag showcased his aggressive style with a striking 149.77 Strike Rate, scoring an impressive 650 runs.
+1. **Virender Sehwag**:    ![shevag](https://github.com/GaneshPatilDS/Ipl_Pinch_hitters_In_Power_Play_So_far/assets/123234894/53826787-c429-4191-95e5-b0cbb8f221df)
+   A force to reckon with, Sehwag showcased his aggressive style with a striking 149.77 Strike Rate, scoring an impressive 650 runs.
 
-2. **Adam Gilchrist**: A true dynamo, Gilchrist's explosive batting yielded a whopping 942 runs, setting the field ablaze with a formidable Strike Rate of 139.97.
+3. **Adam Gilchrist**:     ![adam1](https://github.com/GaneshPatilDS/Ipl_Pinch_hitters_In_Power_Play_So_far/assets/123234894/3ebf7827-e487-4175-bd7b-bc44450848f6)
 
-3. **Suresh Raina**: A consistent performer, Raina's 404 runs at a commendable Strike Rate of 137.88 added depth to his team's lineup, solidifying his reputation as a reliable pinch hitter.
+   A true dynamo, Gilchrist's explosive batting yielded a whopping 942 runs, setting the field ablaze with a formidable Strike Rate of 139.97.
+
+5. **Suresh Raina**:       ![raina](https://github.com/GaneshPatilDS/Ipl_Pinch_hitters_In_Power_Play_So_far/assets/123234894/1ed56192-5b72-4d2e-a8bc-22563caece97)
+
+   A consistent performer, Raina's 404 runs at a commendable Strike Rate of 137.88 added depth to his team's lineup, solidifying his reputation as a reliable pinch hitter.
 
 -------------------------------------------------------------------------------
+
+
+
 
 
 
