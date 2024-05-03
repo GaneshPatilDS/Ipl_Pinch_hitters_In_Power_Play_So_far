@@ -33,8 +33,9 @@
 
 ---------------------------------------------------------------------------------
 1. **Virender Sehwag**:
-   ![shevag](https://github.com/GaneshPatilDS/Ipl_Pinch_hitters_In_Power_Play_So_far/assets/123234894/53826787-c429-4191-95e5-b0cbb8f221df)
    
+    ![v shevag](https://github.com/GaneshPatilDS/Ipl_Pinch_hitters_In_Power_Play_So_far/assets/123234894/8f3f568e-6e56-40d0-bd3c-4581470fc83e)
+
    A force to reckon with, Sehwag showcased his aggressive style with a striking 149.77 Strike Rate, scoring an impressive 650 runs.
 
 3. **Adam Gilchrist**:
